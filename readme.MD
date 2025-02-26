@@ -10,3 +10,10 @@ Just added MongoDB , the password with aplha numeric were not making connections
 ```
 
 ----
+
+JWT tokens are set and the authentication code has been written , the data is getting stored in db when hit on sign-up route ,and sign-in route is working well
+
+*Make sure to have better maxlen mentioned for fields*
+
+---
+
