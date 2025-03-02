@@ -17,3 +17,4 @@ JWT tokens are set and the authentication code has been written , the data is ge
 
 ---
 
+We tried adding authorixations , which makes the sign-in user only to get the response for the request made about the user info. No token no food(details)
