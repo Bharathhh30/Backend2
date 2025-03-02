@@ -22,3 +22,4 @@ We tried adding authorixations , which makes the sign-in user only to get the re
 ----
 
 Made 2 subscription related routes working via controllers
+Added the qstash and nodemailer for email automations 
