@@ -17,7 +17,7 @@ app.use(arcjetMiddleware)
 // means signup route daka vellali ante first api/v1/auth ki piovali
 app.use('/api/v1/auth',authRouter);
 app.use('/api/v1/users',userRouter);
-app.use('/api/v1/subscription',subscriptionRouter);
+app.use('/api/v1/subscriptions',subscriptionRouter);
 app.use(errorMiddleware);
 app.get("/",(req,res)=>{
     res.send("hello world");
